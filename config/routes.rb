@@ -1,4 +1,6 @@
 BpAtHome::Application.routes.draw do
+  get "team/index"
+
   root :to => 'pages#home'
 
   ActiveAdmin.routes(self)
