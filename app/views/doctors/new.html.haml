@@ -1,0 +1,14 @@
+.page-header
+  %h1 Registration
+
+%p Please complete the form below to register for BP at Home.
+
+= simple_form_for(@doctor, html: { class: 'form-vertical' }) do |f|
+  = f.input :name
+  = f.input :email
+  = f.input :password
+  = f.input :password_confirmation
+  = f.input :practice
+  = f.submit "Sign up", class: "btn btn-primary"
+
+%p Have questions? Please drop us an email via ed@podmedics.com. We will be happy to help or answer any questions that you may have.

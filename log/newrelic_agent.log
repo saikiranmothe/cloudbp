@@ -1,0 +1,16 @@
+# Logfile created on 2013-05-28 17:56:59 +0530 by logger.rb/31641
+[05/28/13 17:56:59 +0530 sai (5465)] INFO : Dispatcher: thin
+[05/28/13 17:56:59 +0530 sai (5465)] ERROR : Unable to determine application name. Please set the application name in your newrelic.yml or in a NEW_RELIC_APP_NAME environment variable.
+[05/28/13 17:56:59 +0530 sai (5465)] WARN : Agent configured not to send data in this environment.
+[05/28/13 17:56:59 +0530 sai (5465)] INFO : New Relic Ruby Agent 3.5.4.34 Initialized: pid = 5465
+[05/28/13 17:56:59 +0530 sai (5465)] INFO : Agent Log at /home/sai/MI/bp_at_home/log/newrelic_agent.log
+[05/28/13 17:57:12 +0530 sai (5470)] INFO : Dispatcher: thin
+[05/28/13 17:57:12 +0530 sai (5470)] ERROR : Unable to determine application name. Please set the application name in your newrelic.yml or in a NEW_RELIC_APP_NAME environment variable.
+[05/28/13 17:57:12 +0530 sai (5470)] WARN : Agent configured not to send data in this environment.
+[05/28/13 17:57:12 +0530 sai (5470)] INFO : New Relic Ruby Agent 3.5.4.34 Initialized: pid = 5470
+[05/28/13 17:57:12 +0530 sai (5470)] INFO : Agent Log at /home/sai/MI/bp_at_home/log/newrelic_agent.log
+[05/28/13 17:57:39 +0530 sai (5495)] INFO : Dispatcher: thin
+[05/28/13 17:57:39 +0530 sai (5495)] ERROR : Unable to determine application name. Please set the application name in your newrelic.yml or in a NEW_RELIC_APP_NAME environment variable.
+[05/28/13 17:57:39 +0530 sai (5495)] WARN : Agent configured not to send data in this environment.
+[05/28/13 17:57:39 +0530 sai (5495)] INFO : New Relic Ruby Agent 3.5.4.34 Initialized: pid = 5495
+[05/28/13 17:57:39 +0530 sai (5495)] INFO : Agent Log at /home/sai/MI/bp_at_home/log/newrelic_agent.log
